@@ -1,5 +1,5 @@
 # Audio player
-![Screenshot](https://github.com/Alexey-Pirogov-02/Audioplayer/blob/master/media/Screen_v1.0.0.png)
+![Screenshot](media/Screen_v1.0.0.png)
 ---
 The audio player for Winsows OS. Created in .NET C#.
 
